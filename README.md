@@ -1,7 +1,7 @@
+## Readme
+
 # Set up
-npm install react-router-dom
-npm install bootstrap reactstrap
-npm install react-big-calendar moment
-npm install @reduxjs/toolkit react-redux
-npm install recharts
-npm install axios
+npm install react-router-dom bootstrap reactstrap react-big-calendar moment @reduxjs/toolkit react-redux recharts axios
+
+# Start
+npm start
